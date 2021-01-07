@@ -1,0 +1,22 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koneruteja/Readme.git"
+  },
+  "author": "koneru.dharmateja1@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koneruteja/Readme/issues"
+  },
+  "homepage": "https://github.com/koneruteja/Readme#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
