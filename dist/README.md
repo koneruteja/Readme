@@ -1,10 +1,10 @@
 
-# readme 
+# Readme Generator 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
         
 ## Description
-generator for readme file
+This is a demo on how to use the readme generator code
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -13,13 +13,13 @@ generator for readme file
 * [License](#license)
 * [Questions](#questions)
 ## Installation
-npm 
+initiate npm and make sure you have all the modules installed. execute code by entering node index.js
 ## Usage
-node index.js
+can be used by anyone 
 ## Contributing
-koneru.dharmateja1@gmail.com
+Feel free to add features
 ## Tests
-initiate npm and run the script
+clone the repo and run it in your own pc
 ## License
 Licensed under MIT License.
 ## Questions

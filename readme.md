@@ -9,4 +9,4 @@ git clone the repo https://github.com/koneruteja/Readme.git
 
 ## Usage
 
-youtube video tutorial:
+youtube video tutorial: https://youtu.be/qoTrwzzn3Cc
